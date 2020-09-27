@@ -83,7 +83,9 @@ The following were used for this project.
 
 <br />
 
-Mainly Javascript was used for this project. This application uses jQuery to manipulate traverse the DOM while, manipulating HTML style and elements base on user inputs and click events. 
+Mainly Javascript was used for this project. 
+
+This application uses jQuery to manipulate traverse the DOM while, manipulating HTML style and elements base on user inputs and click events. 
 
 Localstorage is used to store appointments on click and render them on page window loads.
 
